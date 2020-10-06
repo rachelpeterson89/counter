@@ -6,5 +6,3 @@ urlpatterns = [
     path('destroy_session',views.destroy),
     path('add_two',views.add_two)
 ]
-
-hello heljklfdklsa;gdsa
