@@ -10,7 +10,7 @@
     flex-direction:column;
 }
 
-#form {
+.form {
     display:flex;
     justify-content:center;
     align-items:center;
